@@ -2,6 +2,6 @@
 
 Feedback, suggestions, and bug reports can be communicated through [issues](https://github.com/pignales/bidles/issues).
 
-Join us on [Discord](https://discord.gg/azgZNXbf4r).
+Join us on [Discord](https://discord.gg/azgZNXbf4r) and follow on [Mastodon](https://mastodon.gamedev.place/@pignales).
 
 All versions can be found under [releases](https://github.com/pignales/bidles/releases).
